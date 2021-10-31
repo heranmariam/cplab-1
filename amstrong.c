@@ -7,7 +7,7 @@ Date:13/02/2019
 void main()
 {
 	int number,reverse=0,remainder,a;
-	printf("enter the number:");
+	printf("Enter a number:");
 	scanf("%d",&number);
 	a= number;
 	while(number>0)
