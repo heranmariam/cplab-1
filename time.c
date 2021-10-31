@@ -7,7 +7,7 @@ Date:27/02/2019
 void main()
 {
 	int i,j;
-	printf("12 MIDNIGHT\n");
+	printf("12 at MIDNIGHT\n");
 	for(i=1;i<12;i++)
 	{
 		printf("%d AM\n",i);
