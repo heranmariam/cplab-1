@@ -7,7 +7,7 @@ Date:06/03/2019
 void main()
 {
 	int number,octal=0,remainder,i;
-	printf("enter the number:");
+	printf("enter the numbers:");
 	scanf("%d",&number);
 	i=1;
 	while(number>0)
